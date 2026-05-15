@@ -1,1 +1,5 @@
 Nilesh,201,Deluxe,4000.0
+Ram,201,Deluxe,4000.0
+Rohan,301,Suite,7000.0
+Nilesh,101,Standard,2000.0
+Ice,202,Deluxe,4000.0
